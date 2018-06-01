@@ -1,0 +1,3 @@
+save the file with test.go file
+
+>go run test.go
