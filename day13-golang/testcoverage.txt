@@ -1,0 +1,5 @@
+go get golang.org/x/tools/cmd/cover
+//library to download
+
+go test -coverprofile fmt
+//to display code test coverage in %

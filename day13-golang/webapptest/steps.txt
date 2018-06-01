@@ -1,0 +1,5 @@
+go run app.go
+
+open app in browser
+
+go test
